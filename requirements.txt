@@ -1,0 +1,5 @@
+pytz
+requests
+geopy
+timezonefinder
+tkinter
