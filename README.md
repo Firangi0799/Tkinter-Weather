@@ -1,6 +1,4 @@
 # Weather App
-## Video Demo:  <URL HERE>
-## Description:
 
 ### Weather App
         This is a simple weather app that uses the OpenWeatherMap API. The app allows users to enter a city name and get the current weather conditions for that city.
