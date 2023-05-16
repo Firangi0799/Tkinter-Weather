@@ -43,9 +43,6 @@ This is a simple weather application built using Tkinter in Python. It allows us
 3. Click the search button or press Enter.
 4. The application will display the current time and weather details for the specified city.
 
-## Screenshots
-
-![Weather App Screenshot](screenshots/weather_app.png)
 
 ## Dependencies
 
